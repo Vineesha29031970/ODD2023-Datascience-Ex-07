@@ -119,11 +119,3 @@ print(df_new)
 
 Thus, the various feature selection techniques have been performed on a given dataset successfully.
 
-
-
-
-
-
-
-
-# OUPUT
