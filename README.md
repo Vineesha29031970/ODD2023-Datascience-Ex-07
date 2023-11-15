@@ -31,7 +31,7 @@ df = pd.read_csv('titanic_dataset.csv')
 df
 ```
 
-<img width="561" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-07/assets/133136880/66d7bc97-67bb-4568-af57-2b2334fc6073">
+<img width="581" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-07/assets/133136880/66d7bc97-67bb-4568-af57-2b2334fc6073">
 
 ```
 df.isnull().sum()
