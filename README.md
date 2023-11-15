@@ -77,7 +77,7 @@ df = pd.read_csv("CarPrice.csv")
 df
 ```
 
-<img width="436" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-07/assets/133136880/9b4de9c0-cdb7-45a8-a45a-b5a419bf64a0">
+<img width="459" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-07/assets/133136880/9b4de9c0-cdb7-45a8-a45a-b5a419bf64a0">
 
 ```
 df = df.drop(['car_ID', 'CarName'], axis=1)
@@ -118,4 +118,3 @@ print(df_new)
 # RESULT:
 
 Thus, the various feature selection techniques have been performed on a given dataset successfully.
-
